@@ -37,7 +37,7 @@
 									<div  class="dropdown-menu">
 										<ul>
 											<li>
-												<a href="">About Us</a>
+												<a href="AboutUsEN.php">About Us</a>
 											</li>
 											<li>
 												<a href="">Join VATSIM</a>
